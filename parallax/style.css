@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body,html {
+    height: 100%;
+}
+.parallax {
+    background-image: url(images/ninajochen.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    color: white;
+    padding-top: 502px;
+    
+    
+}
+
+body{
+    text-align: center;
+}
+
+.sec {
+    background-color: whitesmoke;
+    padding: 100px;
+
+}
+
+.sec p{
+    color: grey;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.sec h3{
+    font-size: 26px;
+    color: black;
+    padding: 13px;
+
+}
+
+.parallax1 {
+    background-image: url(images/prideandprej.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax1 h1{
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+    color: white;
+    padding-top: 300px;
+}
+
+.sec1 {
+    background-color: #1c2831;
+    padding: 100px;
+}
+
+.sec1 h3 {
+    font-size: 26px;
+    color: whitesmoke;
+    padding: 13px;
+}
+
+.sec1 p{
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.parallax2 {
+    background-image: url(images/rj.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax3 {
+    background-image: url(images/upsidedown.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax4 {
+    background-image: url(images/nottinghill.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax5 {
+    background-image: url(images/gwtw.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax6 {
+    background-image: url(images/esotsm.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax7 {
+    background-image: url(images/beforesunrise.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax8 {
+    background-image: url(images/sleeplessinseattle.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax9 {
+    background-image: url(images/lalaland.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax10 {
+    background-image: url(images/topgun.png);
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+
